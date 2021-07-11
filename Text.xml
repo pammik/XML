@@ -14,7 +14,10 @@
     </appointment>
     <appointment>
         <begin>1234360800</begin>
-        <duration>1800</duration>
+        <duration>
+            <QWE> QWE </QWE>
+            <ASD> ASD </ASD>
+        </duration>
         <subject>Check MS Office website for updates</subject>
         <location></location>
         <uid>604f4792-eb89-478b-a14f-dd34d3cc6c21-1234360800</uid>
