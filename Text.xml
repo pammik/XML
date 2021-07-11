@@ -19,7 +19,10 @@
             <ASD> ASD </ASD>
         </duration>
         <subject>Check MS Office website for updates</subject>
-        <location></location>
+        <location>
+            <One> 1 </One>
+            <Two> 2 </Two>
+        </location>
         <uid>604f4792-eb89-478b-a14f-dd34d3cc6c21-1234360800</uid>
         <state>dismissed</state>
     </appointment>
