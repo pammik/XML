@@ -19,7 +19,8 @@
             <ASD> ASD </ASD>
         </duration>
         <subject>Check MS Office website for updates</subject>
-        <location>
+	<location>
+	    # https://vk.com/feed
             <One> 1 </One>
             <Two> 2 </Two>
         </location>
